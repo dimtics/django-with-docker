@@ -108,4 +108,4 @@ media/
 *.pid
 
 # django env file
-*.dev
+.env.dev
